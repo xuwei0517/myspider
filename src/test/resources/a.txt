@@ -1,0 +1,2 @@
+fields.put("name","zs")
+urls.add("www.baidu.com")
